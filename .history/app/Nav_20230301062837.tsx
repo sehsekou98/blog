@@ -1,0 +1,6 @@
+
+
+
+export defaultasync (params:type) => {
+    
+}
