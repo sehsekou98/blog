@@ -1,6 +1,5 @@
 
-import "./globals.css"
-import Head from 'next/head'
+ import Head from 'next/head'
 import Nav from './Nav'
 import { Roboto } from "@next/font/google"
 
