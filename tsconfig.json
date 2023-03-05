@@ -36,7 +36,7 @@
     "pages/index.jsx",
     "pages/_document.jsx",
     ".next/types/**/*.ts"
-, "pages/Nav.tsx", "pages/layout.jsx"  ],
+, "app/Nav.tsx", "app/layout.jsx", "app/login.tsx"  ],
   "exclude": [
     "node_modules"
   ]
